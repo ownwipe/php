@@ -1,0 +1,15 @@
+name: Auth
+main: Name\auth\main
+verion: 0.0.1
+api: 1.2.0
+description: Регистрации и вход на сервер.
+
+commands: 
+	register:
+		description: Регистрация
+		usage: "/register <password>"
+		permission: true
+	login:
+		description: Регистрация
+		usage: "/login <password>"
+		permission: true

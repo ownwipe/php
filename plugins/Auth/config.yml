@@ -1,0 +1,12 @@
+database:
+	host: "127.0.0.1"
+	port: 3306
+	user: "root"
+	password: ""
+	db_name: "authDataBase"
+
+spawn:
+	x: 0
+	y: 100
+	z: 0
+	world: "world"
